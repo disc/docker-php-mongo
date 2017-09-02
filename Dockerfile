@@ -1,6 +1,6 @@
 FROM php:fpm
 
-RUN apt-get update && apt-get -y install \
+RUN apt-get update && apt-get install --yes --no-install-recommends \
     libssl-dev \
     && docker-php-ext-install mbstring opcache \
     && pecl install mongodb redis \
