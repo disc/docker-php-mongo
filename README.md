@@ -1,9 +1,7 @@
-# docker-php-fpm-mongo
-
 # The [`discmd/php-fpm-mongo`](https://hub.docker.com/r/discmd/php-fpm-mongo/) Docker image
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/discmd/php-fpm-mongo.svg)](https://hub.docker.com/r/bigtruedata/php-mysqli/)
-[![Docker Stars](https://img.shields.io/docker/stars/discmd/php-fpm-mongo.svg)](https://hub.docker.com/r/bigtruedata/php-mysqli/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/discmd/php-fpm-mongo.svg)](https://hub.docker.com/r/discmd/php-fpm-mongo/)
+[![Docker Stars](https://img.shields.io/docker/stars/discmd/php-fpm-mongo.svg)](https://hub.docker.com/r/discmd/php-fpm-mongo/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
