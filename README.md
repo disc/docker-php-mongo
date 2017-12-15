@@ -1,7 +1,7 @@
 # The [`disc/php-mongo`](https://hub.docker.com/r/disc/php-mongo/) Docker image
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/disc/php-fpm-mongo.svg)](https://hub.docker.com/r/disc/php-mongo/)
-[![Docker Stars](https://img.shields.io/docker/stars/disc/php-fpm-mongo.svg)](https://hub.docker.com/r/disc/php-mongo/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/disc/php-mongo.svg)](https://hub.docker.com/r/disc/php-mongo/)
+[![Docker Stars](https://img.shields.io/docker/stars/disc/php-mongo.svg)](https://hub.docker.com/r/disc/php-mongo/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
